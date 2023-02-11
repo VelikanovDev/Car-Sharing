@@ -24,3 +24,23 @@ The user has been created, let's finally log in!
 After logging into the user account, we see this:
 
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/125138065/218277873-831a0fd3-dd9a-4229-88de-a71c4a9fa84a.png">
+
+We are offered to rent a car, let's try it!
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/125138065/218278009-fe749198-e116-4f09-9927-bd0d197d56aa.png">
+
+We forgot to add cars to the company, let's go back and fix it.
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/125138065/218278156-609c682c-4d76-412b-8ef7-81cdf6af17f0.png">
+
+Now we can choose a free car for rent
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/125138065/218278266-93a271e2-ad7b-41e3-bdd8-bbff639021ce.png">
+
+We rented a car. We can view the information about the rented car at any time now and we can always return the car
+
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/125138065/218278411-f9cdb47b-2a0a-44cb-b819-e3d20fc4ffdb.png">
+
+Enjoy using it! :)
+
+
