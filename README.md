@@ -11,7 +11,6 @@ Next, you choose whether to log in as a manager or as a client, if manager is se
 You can display a list of all created companies or create a new one. Let's create a new one:
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/125138065/218277683-dce4253a-bc31-4311-b59e-9c8fe43de879.png">
 
-
 If you have chosen to log in as a client, you will see this: 
 
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/125138065/218277777-2026729d-cde5-4e78-8bef-50397fef3cda.png">
@@ -33,9 +32,10 @@ We forgot to add cars to the company, let's go back and fix it.
 
 <img width="485" alt="image" src="https://user-images.githubusercontent.com/125138065/218278156-609c682c-4d76-412b-8ef7-81cdf6af17f0.png">
 
-Now we can choose a free car for rent
+Let's go back to the user menu and try again
 
-<img width="485" alt="image" src="https://user-images.githubusercontent.com/125138065/218278266-93a271e2-ad7b-41e3-bdd8-bbff639021ce.png">
+<img width="485" alt="image" src="https://user-images.githubusercontent.com/125138065/218278618-fce679a0-f6b3-4230-9fc4-50c528495c2a.png">
+
 
 We rented a car. We can view the information about the rented car at any time now and we can always return the car
 
